@@ -21,4 +21,4 @@ I love nature and I'm most happy when I'm with my friends and family.</p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZvcWM2ZTc0cHdrMjU4bWVkdXpvbzZwMjBsenVwZDNpc2I0YnZxNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/S8qzKgooCxZikuVbtS/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to hear from you!</b> :)</em>
 
 
-## Show ❤️ By Starring My Repos!
+## Show ❤️ By giving a ⭐ to My Repos!
