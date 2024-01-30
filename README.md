@@ -1,9 +1,9 @@
 <h2> Hi, I'm Ana! <img src="https://media.giphy.com/media/IzL0gtAuERKuESGN1t/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="230">
-<p><em>Junior Java Developer src="[https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e477v12fnlxisslksszwffurie4djj806z3655hkmtx&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif)" width="30"></br>
+<p><em>Junior Java Developer <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="30"></em></p>
 
-[![Linkedin: Ana-Maria Balasa](https://img.shields.io/badge/-Ana-Maria-Balasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anamaria-balasa/)](https://www.linkedin.com/in/anamaria-balasa/)
-[![GitHub anamariaow](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/anamariaow)
+[![Linkedin: Ana-Maria Balasa](https://img.shields.io/badge/-anamariabalasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anamaria-balasa/)](https://www.linkedin.com/in/anamaria-balasa/)
+[![GitHub anamariaow](https://img.shields.io/github/followers/anamariaow?label=follow&style=social)](https://github.com/anamariaow)
 
 
 ### <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="50"> A little more about me...  
