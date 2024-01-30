@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 <h2> Hi, I'm Ana! <img src="https://media.giphy.com/media/IzL0gtAuERKuESGN1t/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="400">
 <p><em>Junior Java Developer <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="120"></em></p>
 
 
@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/jmyHq8Sthd4vb4mfRe/giphy.gif" width="100"> A little more about me...  
 
 <p>I'm 26 from Italy (actually born in Romania). I'm super passionate about Asian culture and food, I also studied Japanese and Chinese.
-I also speak most of the European languages.</p> 
+  I also speak most of the European languages.</p> 
 <p>I like to spend my free time watching tv series and anime and my favourite activities are cycling and camping, but I also do yoga and pilates.
 I love nature and I'm most happy when I'm with my friends and family.</p> 
 
