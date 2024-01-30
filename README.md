@@ -9,7 +9,7 @@
 [![GitHub anamariaow](https://img.shields.io/github/followers/anamariaow?label=follow&style=social)](https://github.com/anamariaow)
 
 
-### <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="150"> A little more about me...  
+### <img src="https://media.giphy.com/media/jmyHq8Sthd4vb4mfRe/giphy.gif" width="150"> A little more about me...  
 
 <p>I'm 26 from Italy (actually born in Romania). I'm super passionate about Asian culture and food, I also studied Japanese and Chinese.
 I also speak most of the European languages.</p> 
