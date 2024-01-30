@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <h2> Hi, I'm Ana! <img src="https://media.giphy.com/media/IzL0gtAuERKuESGN1t/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="230">
 <p><em>Junior Java Developer <img src="https://media.giphy.com/media/fRg1SwUD8Nr0EWI75x/giphy.gif" width="30"></em></p>
